@@ -1,0 +1,14 @@
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\obj\Debug\Prog1a.csprojAssemblyReference.cache
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\obj\Debug\Prog1a.csproj.CoreCompileInputs.cache
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\HEISENBERG\Desktop\Fall 2018\CIS 200\Dr. Wright's Solutions\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\obj\Debug\Prog1A.csprojAssemblyReference.cache
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\obj\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\HEISENBERG\Desktop\Prog0\Prog0\Prog0\obj\Debug\Prog0.pdb
