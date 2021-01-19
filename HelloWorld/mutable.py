@@ -1,7 +1,7 @@
-#an immutable object can't be changed while a mutable object can be changed
-#notice how the list ID does not change after adding an item to the list
-#an immutable object such as a string would destroy the space in memory and create
-#a new space
+# an immutable object can't be changed while a mutable object can be changed
+# notice how the list ID does not change after adding an item to the list
+# an immutable object such as a string would destroy the space in memory and create
+# a new space
 
 shopping_list = ["milk",
                  "pasta",
